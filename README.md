@@ -37,7 +37,7 @@ This example use extended with the following plugins. Instructions on how to use
 
 ## License
 
-This project is is available under the Apache License, Version 2.0 e. See the LICENSE file for more info. Attribution by linking to the [project page](https://github.com/RomeRock/ios-calculator) is appreciated.
+This project is is available under the MIT License, Version 2.0 e. See the LICENSE file for more info. Attribution by linking to the [project page](https://github.com/RomeRock/ios-calculator) is appreciated.
 
 
 <div>
